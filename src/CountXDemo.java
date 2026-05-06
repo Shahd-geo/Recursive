@@ -3,7 +3,7 @@ public class CountXDemo {
         CountX COUNTER=new CountX();
         System.out.println(COUNTER.countX("xxhixx"));
         System.out.println(COUNTER.countX("xhixhix"));
-        System.out.println(COUNTER.countX(""));
+        System.out.println(COUNTER.countX("hi"));
 
 
     }

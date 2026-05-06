@@ -5,6 +5,9 @@ public class Count7 {
         }
         int lastDigit = n % 10;
         int remove=n / 10;
+        if (lastDigit==7){
+
+        }
 
     }
 }

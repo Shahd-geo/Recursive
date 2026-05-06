@@ -6,6 +6,8 @@ public class PairStar {
         }
         char Frist= str.charAt(0);
         char NEXT = str.charAt(1);
+        if (Frist == NEXT) {
+            return Frist + "*" + pairStar(str.substring(1));
 
     }
 }

@@ -3,6 +3,7 @@ public class CountX {
         if (str.isEmpty()){
             return 0;
         }
+        char fristchr=str.charAt(0);
 
     }
 }

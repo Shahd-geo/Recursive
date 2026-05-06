@@ -6,7 +6,7 @@ public class CountX {
         char fristchr=str.charAt(0);
         String REMAINING = str.substring(1);
         if (fristchr=='x'){
-            return
+            return  1 + countX(str.substring(1));
         }
 
     }

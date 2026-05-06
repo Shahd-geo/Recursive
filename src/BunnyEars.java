@@ -1,5 +1,5 @@
 public class BunnyEars {
-    public static void bunnyEars2(int n){
+    public static int bunnyEars2(int n){
 
     }
 }

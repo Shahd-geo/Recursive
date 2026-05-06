@@ -4,6 +4,7 @@ public class Count7 {
             return 0;
         }
         int lastDigit = n % 10;
+        int remove=n / 10;
 
     }
 }

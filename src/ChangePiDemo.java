@@ -3,6 +3,8 @@ public class ChangePiDemo {
         ChangePi CH=new ChangePi();
         System.out.println(CH.changePi("xpix"));
         System.out.println(CH.changePi("pipi"));
+        System.out.println(CH.changePi("pip"));
+
 
 
     }

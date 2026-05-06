@@ -9,7 +9,7 @@ public class PairStar {
         if (Frist == NEXT) {
             return Frist + "*" + pairStar(str.substring(1));
         }else {
-            return Frist + pairStar(str.substring(1);
+            return Frist + pairStar(str.substring(1));
         }
 
     }

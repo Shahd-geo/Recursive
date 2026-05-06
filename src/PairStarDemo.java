@@ -4,7 +4,7 @@ public class PairStarDemo {
         System.out.println(P.pairStar("hello"));
         System.out.println(P.pairStar("xxyy"));
 
-        System.out.println(P.pairStar());
+        System.out.println(P.pairStar("aaaa"));
 
 
     }

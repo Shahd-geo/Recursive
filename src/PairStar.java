@@ -4,5 +4,8 @@ public class PairStar {
             return str;
 
         }
+        char Frist= String.valueOf(str.charAt(0));
+        String NEXT
+
     }
 }

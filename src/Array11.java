@@ -5,6 +5,9 @@ public class Array11 {
         }
         if (nums[index]==1){
             return 1 + array11(nums, index + 1);
+        }else {
+            return array11(nums, index + 1);
+
         }
 
     }

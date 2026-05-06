@@ -7,6 +7,9 @@ public class CountX {
         String REMAINING = str.substring(1);
         if (fristchr=='x'){
             return  1 + countX(str.substring(1));
+        }else {
+            return countX(str.substring(1));
+
         }
 
     }

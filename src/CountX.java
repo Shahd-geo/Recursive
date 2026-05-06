@@ -4,6 +4,7 @@ public class CountX {
             return 0;
         }
         char fristchr=str.charAt(0);
+        String REMAINING = str.substring(1);
 
     }
 }

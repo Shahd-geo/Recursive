@@ -4,6 +4,7 @@ public class StrCopies {
             return true ;
         }
         if (str.length()<sub.length()){
+            return false;
 
         }
 

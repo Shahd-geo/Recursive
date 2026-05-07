@@ -3,6 +3,7 @@ public class namedNoX {
         if (str.length()==0){
             return "";
         }
+        char frist = str.charAt(0);
 
     }
 }

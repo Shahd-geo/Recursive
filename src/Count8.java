@@ -5,5 +5,7 @@ public class Count8 {
         }
         int lastDigit=n%10;
         int seconedLastDigit= (n / 10) % 10;
+        int remove =n/10;
+        int count = 0 ;
     }
 }

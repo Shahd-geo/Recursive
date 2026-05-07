@@ -3,6 +3,8 @@ public class EndXDemo {
         EndX obj = new EndX();
         System.out.println(obj.endX("xxre"));
         System.out.println(obj.endX("xxhixx"));
+        System.out.println(obj.endX("xhixhix"));
+
 
 
     }

@@ -4,6 +4,7 @@ public class EndX {
             return "";
 
         }
+        char frist = str.charAt(0);
 
     }
 }

@@ -1,6 +1,7 @@
 public class CountAbcDemo {
     static void main(String[] args) {
         CountAbc OBJ = new CountAbc();
+        System.out.println(OBJ.countAbc("abc"));
 
     }
 }

@@ -7,7 +7,11 @@ public class ParenBit {
             return parenBit(str.substring(1));
 
         }
-        return parenBit(str.substring(0, str.length() - 1)  );
+        if (str.charAt(str.length() - 1) != ')') {
+            return parenBit(str.substring(0, str.length() - 1));
+        }
 
+        // Otherwise, return the string (this will be the substring with parentheses)
+        return str;
     }
 }

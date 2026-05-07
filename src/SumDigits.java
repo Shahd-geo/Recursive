@@ -1,1 +1,1 @@
-public class SumDigits {    public int  sumDigits(int n){        if (n ==0){            return 0;        }        int lastDigit = n % 10;    }}
+public class SumDigits {    public int  sumDigits(int n){        if (n ==0){            return 0;        }        int lastDigit = n % 10;        return lastDigit + sumDigits(n / 10);    }}

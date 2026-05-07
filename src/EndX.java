@@ -11,5 +11,7 @@ public class EndX {
 
         }
         else {
+            return frist+remaining;
+        }
     }
 }

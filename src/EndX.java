@@ -5,6 +5,7 @@ public class EndX {
 
         }
         char frist = str.charAt(0);
+        String remaining = str.substring(1);
 
     }
 }

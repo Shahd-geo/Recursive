@@ -11,6 +11,8 @@ public class Count8 {
             if (seconedLastDigit==8){
                 return 2 + count8(remove);
             } else {
+                return 1 + count8(remove);
+
 
             }
         }

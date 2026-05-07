@@ -1,2 +1,1 @@
-public class SumDigits {
-}
+public class SumDigits {    public int  sumDigits(int n){    }}

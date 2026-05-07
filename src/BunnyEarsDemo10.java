@@ -3,6 +3,8 @@ public class BunnyEarsDemo10 {
         BunnyEars10 OBJ = new BunnyEars10();
         System.out.println(OBJ.bunnyEars(0));
         System.out.println(OBJ.bunnyEars(1));
+        System.out.println(OBJ.bunnyEars(2));
+
 
 
     }

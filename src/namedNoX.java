@@ -1,5 +1,5 @@
 public class namedNoX {
-    public static String noX(String str) {
+    public  String noX(String str) {
         if (str.length() == 0) {
             return "";
         }

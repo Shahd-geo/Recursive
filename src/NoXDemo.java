@@ -1,8 +1,11 @@
 public class NoXDemo {
     static void main(String[] args) {
-        namedNoX obj = new namedNoX();
-        System.out.println(obj.noX("xaxb"));
-        System.out.println(obj.noX("abc"));
+        NoX obj = new NoX();
+        System.out.println(obj.NoX("xaxb"));
+        System.out.println(obj.NoX("abc"));
+        System.out.println(obj.NoX("xx"));
+
+
 
     }
 }

@@ -3,6 +3,7 @@ public class CountAbc {
         if (str.length()<3){
             return 0;
         }
+        String Frist3 = str.substring(0,3);
 
     }
 }

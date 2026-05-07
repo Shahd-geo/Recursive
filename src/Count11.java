@@ -5,6 +5,7 @@ public class Count11 {
 
         }
         String twoChar=str.substring(0,2);
+        int count = 0;
         if (twoChar.equals("11")){
 
         }

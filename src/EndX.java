@@ -5,7 +5,9 @@ public class EndX {
 
         }
         char frist = str.charAt(0);
-        String remaining = str.substring(1);
+        String remaining =endX( str.substring(1));
+        if (frist=='x'){
 
+        }
     }
 }

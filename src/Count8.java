@@ -7,5 +7,12 @@ public class Count8 {
         int seconedLastDigit= (n / 10) % 10;
         int remove =n/10;
         int count = 0 ;
+        if (lastDigit==8 ){
+            if (seconedLastDigit==8){
+                return 2 + count8(remove);
+            } else {
+
+            }
+        }
     }
 }

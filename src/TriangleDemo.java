@@ -3,6 +3,8 @@ public class TriangleDemo {
         Triangle T=new Triangle();
         System.out.println(T.triangle(0));
         System.out.println(T.triangle(1));
+        System.out.println(T.triangle(2));
+
 
 
     }

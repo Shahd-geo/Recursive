@@ -3,6 +3,9 @@ public class StrCopies {
         if (n == 0){
             return true ;
         }
+        if (str.length()<sub.length()){
+
+        }
 
     }
 }

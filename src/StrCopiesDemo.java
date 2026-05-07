@@ -3,7 +3,7 @@ public class StrCopiesDemo {
         StrCopies O = new StrCopies();
         System.out.println(O.strCopies(("catcowcat", "cat", 2));
         System.out.println(O.strCopies("catcowcat", "cow", 2));
-        System.out.println(O.strCopies());
+        System.out.println(O.strCopies("catcowcat", "cow", 1));
 
     }
 }

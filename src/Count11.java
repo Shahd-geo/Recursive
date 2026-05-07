@@ -5,9 +5,12 @@ public class Count11 {
 
         }
         String twoChar=str.substring(0,2);
-        int count = 0;
         if (twoChar.equals("11")){
+            return 1 + count11(str.substring(2));
 
+
+        }else{
+            return count11(str.substring(1));
         }
 
     }

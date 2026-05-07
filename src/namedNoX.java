@@ -6,6 +6,7 @@ public class namedNoX {
         char frist = str.charAt(0);
         String remaining = noX(str.substring(1));
         if (frist=='x'){
+            return remaining;
 
         }
 

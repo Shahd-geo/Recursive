@@ -4,6 +4,9 @@ public class CountHi {
             return 0;
             int count = 0;
             String fristTwoChar= str.substring(0,2);
+            if (fristTwoChar=="hi"){
+                return 1 + countHi(str.substring(2));
+            }
 
         }
 

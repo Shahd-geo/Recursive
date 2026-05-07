@@ -15,6 +15,6 @@ public class Count8 {
 
 
             }
-        }
+        }return 0 + count8(remove);
     }
 }

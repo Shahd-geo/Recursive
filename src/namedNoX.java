@@ -4,6 +4,7 @@ public class namedNoX {
             return "";
         }
         char frist = str.charAt(0);
+        String remaining = noX(str.substring(
 
     }
 }

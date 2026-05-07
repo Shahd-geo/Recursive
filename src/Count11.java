@@ -4,6 +4,7 @@ public class Count11 {
             return 0;
 
         }
+        String twoChar=str.substring(0,2);
 
     }
 }

@@ -3,6 +3,8 @@ public class StrCountDemo {
         StrCount obj = new StrCount();
         System.out.println(obj.strCount("catcowcat","cat"));
         System.out.println(obj.strCount("catcowcat","cow"));
+        System.out.println(obj.strCount("catcowcat","dog"));
+
 
 
     }

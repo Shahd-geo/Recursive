@@ -3,6 +3,6 @@ public class Count8 {
         if (n == 0){
             return 0;
         }
-
+        int lastDigit=n%10;
     }
 }
